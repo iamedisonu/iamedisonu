@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamedisonu
-- 👀 I’m interested in web development and Cybersecurity
+- 👀 I’m interested in software engineering and Cybersecurity
 - 🌱 I’m currently working on different projects
 - 💞️ I’m looking to collaborate on my Bright Futures Hub project
 - 📫 How to reach me: edison.u@eagles.oc.edu
