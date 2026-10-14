@@ -1,36 +1,46 @@
-# 👋 Hi, I'm Edison!
+# Hi, I'm Edison
 
-> “Code is like poetry; each line crafts a new world.” – Edison
+### AI development · Software engineering · Cybersecurity
 
-## 🚀 About Me
+I build applications that solve practical problems, from AI-assisted career tools to mobile software for farm patrol operations. My interests include applied AI, secure application development, and making software reliable when networks or device permissions get in the way.
 
-- **Developer & Creator**
-- Passionate about crafting innovative solutions and exploring new technologies.
-- Always curious, always learning.
+![AI development](https://img.shields.io/badge/Focus-AI_Development-2563eb?style=flat)
+![Software engineering](https://img.shields.io/badge/Focus-Software_Engineering-0f766e?style=flat)
+![Cybersecurity](https://img.shields.io/badge/Interest-Cybersecurity-7c3aed?style=flat)
 
-## 🛠️ Skills
+## Current work: BGF Sentinel
 
-- Proficient in modern programming languages and frameworks
-- Experienced with Python, C++, Java, and more
-- Focused on building, improving, and maintaining open-source projects
+**A private farm patrol and operations platform for Berry Good Farms.**
 
-## 🌟 Featured Projects
+I'm working on a phone-first system that helps field guards record patrols and gives supervisors a clearer view of activity. It combines GPS patrol tracking, checkpoint confirmations, duty reminders, field notes, SOS alerts, and shift reports.
 
-Here are some of my standout repositories—explore for web apps, automation, games, and more:
+My development work includes:
 
-- [eagleAI](https://github.com/iamedisonu/eagleAI) – AI-powered project
-- [brightfutures1](https://github.com/iamedisonu/brightfutures1)
-- [Iwacu-Correction](https://github.com/iamedisonu/Iwacu-Game)
-- [Bulk-Report](https://github.com/iamedisonu/Bulk-Report)
-- [my-Potifolio](https://github.com/iamedisonu/my-Potifolio)
+- **Field reliability:** preserving patrol activity through connection loss and recovering from interrupted location permissions.
+- **Mobile experience:** clear guard workflows and a supervisor dashboard that works across phone and desktop layouts.
+- **Engineering quality:** automated browser checks, regression testing, and deployment workflows.
+- **Secure development:** protected access to live tracking and careful handling of operational data.
 
-> There are 44 repositories in total. [View more projects](https://github.com/iamedisonu?tab=repositories).
+**Project status:** active development. The source repository and operational details remain private. This is a high-level overview of the work.
 
-## 📫 Connect
+## Selected public projects
 
-- [GitHub Profile](https://github.com/iamedisonu)
+| Project | What it demonstrates |
+| --- | --- |
+| [EagleAI](https://github.com/iamedisonu/eagleAI) | An AI-focused career intelligence application for students, with resume analysis, career guidance, and a web interface. |
+| [AI Web Scraper](https://github.com/iamedisonu/AI-Web-Scraper) | A Python web-scraping prototype with a Streamlit interface and Selenium-based scraping. |
+| [Alien Attack](https://github.com/iamedisonu/Alien-Attack-Game) | A C++ arcade game exploring game logic and interactive application development. |
 
----
+## Technologies
 
-Thanks for visiting!  
-Feel free to explore my work, contribute, or reach out.
+![Technologies I work with: Python, JavaScript, C++, Java, React, HTML, CSS, and Git](https://skillicons.dev/icons?i=python,js,cpp,java,react,html,css,git&perline=8)
+
+- **AI and automation:** Python, Streamlit, and AI-enabled application workflows.
+- **Application development:** JavaScript, React, HTML/CSS, C++, and Java.
+- **Current learning focus:** cybersecurity, application security, and reliable software design.
+
+## Connect
+
+I'm interested in opportunities in AI development, software engineering, and cybersecurity where I can keep learning and contribute to useful products.
+
+[Email me](mailto:edison.u@eagles.oc.edu) · [Explore my public repositories](https://github.com/iamedisonu?tab=repositories)
