@@ -1,12 +1,18 @@
 # Hi, I'm Edison
 
-### AI development · Software engineering · Cybersecurity
+### Computer Science & Cybersecurity · Oklahoma Christian University
 
-I build applications that solve practical problems, from AI-assisted career tools to mobile software for farm patrol operations. My interests include applied AI, secure application development, and making software reliable when networks or device permissions get in the way.
+I turn real problems into reliable software — software that keeps working when conditions don't.
 
-![AI development](https://img.shields.io/badge/Focus-AI_Development-2563eb?style=flat)
-![Software engineering](https://img.shields.io/badge/Focus-Software_Engineering-0f766e?style=flat)
-![Cybersecurity](https://img.shields.io/badge/Interest-Cybersecurity-7c3aed?style=flat)
+## Current work: Learning platform
+
+**An adaptive English learning platform, in active development.**
+
+I'm building a platform that helps students grow in English and critical thinking — reading, writing, and speaking — at their own level, with progress teachers can actually follow. It is built around weekly, level-matched work and guided group discussion, so learning stays steady, personal, and connected, not just a list of exercises.
+
+**Why I'm building it in Rwanda:** Rwanda ranks #107 on the EF English Proficiency Index, scoring 417 against a 488 global average — in school terms, that's roughly primary-school English, at A1–A2 level. *(Source: EF English Proficiency Index)*
+
+**Project status:** in active development. More details when it's ready to share.
 
 ## Current work: BGF Sentinel
 
@@ -23,24 +29,6 @@ My development work includes:
 
 **Project status:** active development. The source repository and operational details remain private. This is a high-level overview of the work.
 
-## Selected public projects
+---
 
-| Project | What it demonstrates |
-| --- | --- |
-| [EagleAI](https://github.com/iamedisonu/eagleAI) | An AI-focused career intelligence application for students, with resume analysis, career guidance, and a web interface. |
-| [AI Web Scraper](https://github.com/iamedisonu/AI-Web-Scraper) | A Python web-scraping prototype with a Streamlit interface and Selenium-based scraping. |
-| [Alien Attack](https://github.com/iamedisonu/Alien-Attack-Game) | A C++ arcade game exploring game logic and interactive application development. |
-
-## Technologies
-
-![Technologies I work with: Python, JavaScript, C++, Java, React, HTML, CSS, and Git](https://skillicons.dev/icons?i=python,js,cpp,java,react,html,css,git&perline=8)
-
-- **AI and automation:** Python, Streamlit, and AI-enabled application workflows.
-- **Application development:** JavaScript, React, HTML/CSS, C++, and Java.
-- **Current learning focus:** cybersecurity, application security, and reliable software design.
-
-## Connect
-
-I'm interested in opportunities in AI development, software engineering, and cybersecurity where I can keep learning and contribute to useful products.
-
-[Email me](mailto:edison.u@eagles.oc.edu) · [Explore my public repositories](https://github.com/iamedisonu?tab=repositories)
+[Email me](mailto:edison.u@eagles.oc.edu)
