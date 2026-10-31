@@ -16,7 +16,7 @@ I'm building a platform that helps students grow in English and critical thinkin
 
 ## Current work: BGF Sentinel
 
-**A private farm patrol and operations platform for Berry Good Farms.**
+**A private farm patrol and operations platform for [Berry Good Farms Maroc](https://www.linkedin.com/company/berry-good-farms-maroc/), a farming organization in Larache, Morocco.**
 
 I'm working on a phone-first system that helps field guards record patrols and gives supervisors a clearer view of activity. It combines GPS patrol tracking, checkpoint confirmations, duty reminders, field notes, SOS alerts, and shift reports.
 
